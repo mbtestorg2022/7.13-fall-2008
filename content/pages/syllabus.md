@@ -49,12 +49,57 @@ Grading Policy
 
 Grading will be based on your performance in the areas summarized below. Although students in this course will typically work in groups of two, students are graded independently.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Experimental design and interpretation, skill, effort, lab notebook and lab citizenship | 50% |
-| Group meetings and oral presentations | 20% |
-| Interim writing assignments (3) | 10% |
-| Final paper | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Experimental design and interpretation, skill, effort, lab notebook and lab citizenship
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group meetings and oral presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interim writing assignments (3)
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final paper
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Lab Hours and Attendance
 ------------------------

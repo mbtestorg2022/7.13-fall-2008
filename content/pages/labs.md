@@ -27,44 +27,345 @@ Protocols
 
 The following is an index of laboratory protocols that were used by students in this course.
 
-| PROTOCOL NAMES | DOCUMENTATION |
-| --- | --- |
-| Agarose gel electrophoresis and DNA band excision | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab02_protocol_agarose)) |
-| Antarctic phosphatase | [New England biolabs antarctic phosphatase](https://www.neb.com/products/m0289-antarctic-phosphatase#Product%20Information) |
-| Biofilm plate assay | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab03_protocol_biofilm)) |
-| Care and handling of PA01 fur mutants | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab04_protocol_care)) |
-| CAS agar plates for pseudomonas — high and low fe | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab05_protocol_cas)) |
-| Current protocols online | [Wiley interscience protocols](http://www3.interscience.wiley.com/browse/?type=CURRENT_PROTOCOL) |
-| Characterization of phenazines in pseudomonas | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab06_protocol_characterization)) |
-| CIP — calf intestinal alkaline phosphotase | [New England bioLabs alkaline phosphatase](https://www.neb.com/products/m0290-alkaline-phosphatase-calf-intestinal-cip#Product%20Information) |
-| Datsenko 2000 PNAS red swap | Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes in _Escherichia Coli_ K-12 Using PCR Products." _PNAS_ 97, no. 12 (2000): 6640-5. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18686/pdf/pq006640.pdf)) |
-| Dephosphorylating with CIP & T4 ligation reactions | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab07_protocol_dephosphorylating)) |
-| Designing primers for PCR | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab08_protocol_designing)) |
-| DIC & fluorescence microscopy | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab09_protocol_dic)) |
-| Generating and screening for mutants in fur | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab10_protocol_generating)) |
-| IQ SyBR green supermix | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4106212B.pdf)) |
-| Lysozyme | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/7/l7651dat.Par.0001.File.tmp/l7651dat.pdf)) |
-| MegaX DH10B T1R electrocomp cells | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tools.invitrogen.com/content/sfs/manuals/megax_man.pdf)) |
-| Motility assays | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab11_protocol_motility)) |
-| NEB quick ligation kit | [New England biolabs quick ligation kit](https://www.neb.com/products/m2200-quick-ligation-kit#Product%20Information) |
-| NEB T4 DNA ligase | [New England biolabs T4 DNA ligase](https://www.neb.com/products/m0202-t4-dna-ligase#Product%20Information) |
-| PA14 Tn mutant library | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ausubellab.mgh.harvard.edu/pa14/downloads/manual.pdf)) |
-| PCR with platinum PCR super mix | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab13_protocol_pcr)) |
-| Plate cell counts | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab14_protocol_plate)) |
-| Pseudomonas electroporations | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab15_protocol_pseudomonas)) |
-| Qiagen hispeed plasmid midi and maxi kits | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab16_protocol_qiagenhispeed)) |
-| Qiagen miniprep kit protocol | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab17_protocol_qiagenminiprep)) |
-| Qiagen QIAquick gel extraction protocol | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab18_protocol_qiaquickgel)) |
-| Qiagen QIAquick PCR reaction & enzyme purification kit protocol | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab19_protocol_qiaquickpcr)) |
-| Restriction enzyme digests | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab20_protocol_restriction)) |
-| Ribonuclease A | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/5/r4642dat.Par.0001.File.tmp/r4642dat.pdf)) |
-| SAP — shrimp alkaline phosphotase | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://fermentas.com/templates/files/tiny_mce/coa_pdf/coa_ef0511.pdf)) |
-| Spectrophotometric determination of DNA concentration | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab21_protocol_spectrophotometric)) |
-| T4 polynucleotide kinase | [New England bioLabs T4 polynucleotide kinase](https://www.neb.com/products/m0201-t4-polynucleotide-kinase#Product%20Information) |
-| Tips on how to troubleshoot your cloning | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.neb.com/tools-and-resources/troubleshooting-guides/troubleshooting-guide-for-cloning)) |
-| TOPO TA PCR cloning kit | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tools.invitrogen.com/content/sfs/manuals/topota_man.pdf)) |
-| Transformation of DH5a-T1R chemically competent cells | ([PDF]({{< baseurl >}}/resources/mit7_13f08_lab22_protocol_transformation)) |
-| Epicentre failsafe PCR kit | ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Epicentre biotechnologies failsafe PCR premix selection kit (PDF)](https://www.lucigen.com/FailSafe-and-trade-PCR-Systems/) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROTOCOL NAMES
+{{< thclose >}}
+{{< thopen >}}
+DOCUMENTATION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Agarose gel electrophoresis and DNA band excision
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab02_protocol_agarose))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Antarctic phosphatase
+{{< tdclose >}}
+{{< tdopen >}}
+[New England biolabs antarctic phosphatase](https://www.neb.com/products/m0289-antarctic-phosphatase#Product%20Information)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Biofilm plate assay
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab03_protocol_biofilm))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Care and handling of PA01 fur mutants
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab04_protocol_care))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CAS agar plates for pseudomonas — high and low fe
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab05_protocol_cas))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Current protocols online
+{{< tdclose >}}
+{{< tdopen >}}
+[Wiley interscience protocols](http://www3.interscience.wiley.com/browse/?type=CURRENT_PROTOCOL)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Characterization of phenazines in pseudomonas
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab06_protocol_characterization))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CIP — calf intestinal alkaline phosphotase
+{{< tdclose >}}
+{{< tdopen >}}
+[New England bioLabs alkaline phosphatase](https://www.neb.com/products/m0290-alkaline-phosphatase-calf-intestinal-cip#Product%20Information)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Datsenko 2000 PNAS red swap
+{{< tdclose >}}
+{{< tdopen >}}
+Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes in _Escherichia Coli_ K-12 Using PCR Products." _PNAS_ 97, no. 12 (2000): 6640-5. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18686/pdf/pq006640.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dephosphorylating with CIP & T4 ligation reactions
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab07_protocol_dephosphorylating))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Designing primers for PCR
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab08_protocol_designing))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+DIC & fluorescence microscopy
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab09_protocol_dic))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Generating and screening for mutants in fur
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab10_protocol_generating))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+IQ SyBR green supermix
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4106212B.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lysozyme
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/7/l7651dat.Par.0001.File.tmp/l7651dat.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MegaX DH10B T1R electrocomp cells
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tools.invitrogen.com/content/sfs/manuals/megax_man.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Motility assays
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab11_protocol_motility))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+NEB quick ligation kit
+{{< tdclose >}}
+{{< tdopen >}}
+[New England biolabs quick ligation kit](https://www.neb.com/products/m2200-quick-ligation-kit#Product%20Information)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+NEB T4 DNA ligase
+{{< tdclose >}}
+{{< tdopen >}}
+[New England biolabs T4 DNA ligase](https://www.neb.com/products/m0202-t4-dna-ligase#Product%20Information)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PA14 Tn mutant library
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ausubellab.mgh.harvard.edu/pa14/downloads/manual.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PCR with platinum PCR super mix
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab13_protocol_pcr))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Plate cell counts
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab14_protocol_plate))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Pseudomonas electroporations
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab15_protocol_pseudomonas))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Qiagen hispeed plasmid midi and maxi kits
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab16_protocol_qiagenhispeed))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Qiagen miniprep kit protocol
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab17_protocol_qiagenminiprep))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Qiagen QIAquick gel extraction protocol
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab18_protocol_qiaquickgel))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Qiagen QIAquick PCR reaction & enzyme purification kit protocol
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab19_protocol_qiaquickpcr))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Restriction enzyme digests
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab20_protocol_restriction))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Ribonuclease A
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/5/r4642dat.Par.0001.File.tmp/r4642dat.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+SAP — shrimp alkaline phosphotase
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://fermentas.com/templates/files/tiny_mce/coa_pdf/coa_ef0511.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Spectrophotometric determination of DNA concentration
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab21_protocol_spectrophotometric))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T4 polynucleotide kinase
+{{< tdclose >}}
+{{< tdopen >}}
+[New England bioLabs T4 polynucleotide kinase](https://www.neb.com/products/m0201-t4-polynucleotide-kinase#Product%20Information)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tips on how to troubleshoot your cloning
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.neb.com/tools-and-resources/troubleshooting-guides/troubleshooting-guide-for-cloning))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+TOPO TA PCR cloning kit
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tools.invitrogen.com/content/sfs/manuals/topota_man.pdf))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Transformation of DH5a-T1R chemically competent cells
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit7_13f08_lab22_protocol_transformation))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Epicentre failsafe PCR kit
+{{< tdclose >}}
+{{< tdopen >}}
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Epicentre biotechnologies failsafe PCR premix selection kit (PDF)](https://www.lucigen.com/FailSafe-and-trade-PCR-Systems/)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Archives
 --------
