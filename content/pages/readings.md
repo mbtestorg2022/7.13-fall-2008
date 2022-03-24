@@ -31,28 +31,28 @@ Hoang, T. T., A. J. Kutchma, A. Becher, and H. P. Schweizer. "[Integration-Profi
 
 Hobbs, M., E. S. R. Collie, P. D. Free, S. P. Livingston, and J. S. Mattick. "[PilS and PilR, a Two-Component Transcriptional Regulartory System Controlling Expression of Type 4 Fimbriae in _Pseudomonas Aeruginosa_](http://www.ncbi.nlm.nih.gov/pubmed/8097014)." _Molecular Microbiology_ 7, no. 5 (1993): 669-82.
 
-Köhler, T., L. K. Curty, F. Barja, C. van Delden, and J. Pechére. "Swarming of _Pseudomonas Aeruginosa_ Is Dependent on Cell-to-Cell Signaling and Requires Flagella and Pili." _J Bacteriol_ 182, no. 21 (2000): 5990-96. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.8MB](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC94731/pdf/jb005990.pdf))
+Köhler, T., L. K. Curty, F. Barja, C. van Delden, and J. Pechére. "Swarming of _Pseudomonas Aeruginosa_ Is Dependent on Cell-to-Cell Signaling and Requires Flagella and Pili." _J Bacteriol_ 182, no. 21 (2000): 5990-96. ([PDF - 1.8MB](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC94731/pdf/jb005990.pdf))
 
 Link, A. J., D. Phillips, and G. M. Church. "[Methods for Generating Precise Deletions and Insertions in the Genome of Wild-Type Escherichia coli: Application to Open Reading Fram Characterization](http://jb.asm.org/cgi/reprint/179/20/6228)." _J Bacteriol_ 179, no. 20 (1997): 6228-6237.
 
-Masduki, A., J. Nakamura, T. Ohga, R. Umezaki, J. Kato, and H. Ohtake. "Isolation and Characterization of Chemotaxis Mutants and Genes of _Pseudomonas Aeruginosa_." _J Bacteriol_ 177, no. 4 (1995): 948-52. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC176688/pdf/1770948.pdf))
+Masduki, A., J. Nakamura, T. Ohga, R. Umezaki, J. Kato, and H. Ohtake. "Isolation and Characterization of Chemotaxis Mutants and Genes of _Pseudomonas Aeruginosa_." _J Bacteriol_ 177, no. 4 (1995): 948-52. ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC176688/pdf/1770948.pdf))
 
 O'Toole, G. A., L. A. Pratt, P. I. Watnick, D. K. Newman, V. B. Weaver, and R. Kolter. "Genetic Approaches to Study of Biofilms." _Methods in Enzymology_ 310 (1999): 91-109.
 
-Qiu, D., V. M. Eisinger, D. W. Rowen, and H. D. Yu. "Regulated Proteolysis Controls Mucoid Conversion in _Pseudomonas Aeruginosa_." _PNAS_ 104, no. 19 (2007): 8107-12. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876579/pdf/zpq8107.pdf))
+Qiu, D., V. M. Eisinger, D. W. Rowen, and H. D. Yu. "Regulated Proteolysis Controls Mucoid Conversion in _Pseudomonas Aeruginosa_." _PNAS_ 104, no. 19 (2007): 8107-12. ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876579/pdf/zpq8107.pdf))
 
 Rahme, L. G., E. J. Stevens, S. F. Wolfort, J. Shao, R. G. Tomkins, and F. M. Ausbel. "[Common Virulence Factors for Bacterial Pathogenicity in Plants and Animals](http://www.sciencemag.org/cgi/content/abstract/268/5219/1899)." _Science_ 268 (1995): 1899-1902.
 
-Rashid, M. H., and A. Kornberg. "Inorganic Polyphosphate is Needed for Swimming, Swarming, and Twitching Motilities of _Pseudomonas Aeruginosa_." _PNAS_ 97, no. 9 (2000): 4885-90. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18327/pdf/pq004885.pdf))
+Rashid, M. H., and A. Kornberg. "Inorganic Polyphosphate is Needed for Swimming, Swarming, and Twitching Motilities of _Pseudomonas Aeruginosa_." _PNAS_ 97, no. 9 (2000): 4885-90. ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18327/pdf/pq004885.pdf))
 
-Saltikov, C. W., and D. K. Newman. "Genetic Identification of a Respiratory Arsenate Reductase." _PNAS_ 100, no. 19 (2003): 10983-88. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC196913/pdf/10010983.pdf))
+Saltikov, C. W., and D. K. Newman. "Genetic Identification of a Respiratory Arsenate Reductase." _PNAS_ 100, no. 19 (2003): 10983-88. ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC196913/pdf/10010983.pdf))
 
 Shanks, R. M. Q., N. C. Caiazza, S. M. Hinsa, C. M. Toutain, and G. A. O'Toole. "[_Saccharomyces Cerevisiae_\-Based Molecular Tool Kit for Manipulation of Genes from Gram-Negative Bacteria](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1489352/)." _Appl Environ Microbiol_ 72, no. 7 (2006): 5027-5036.
 
-Silver, S., P. Johnseine, E. Whitney, and D. Clark. "Manganese-Resistant Mutants of _Escherichia coli_: Physiological and Genetic Studies." _J Bacteriol_ 110, no. 1 (1972): 186-95. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC247397/pdf/jbacter00360-0204.pdf))
+Silver, S., P. Johnseine, E. Whitney, and D. Clark. "Manganese-Resistant Mutants of _Escherichia coli_: Physiological and Genetic Studies." _J Bacteriol_ 110, no. 1 (1972): 186-95. ([PDF - 1.3MB](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC247397/pdf/jbacter00360-0204.pdf))
 
 Smith, E. E., et al. "[Genetic Adaptation by _Pseudomonas Aeruginosa_ to the Airways of Cystic Fibrosis Patients](http://www.pnas.org/content/103/22/8487.abstract)." _PNAS_ 103, no. 22 (2006): 8487-92.
 
 Vasil, M. L. "[How We Learnt About Iron Acquisition in _Pseudomonas Aeruginosa_: A Series of Very Fortunate Events](http://www.ncbi.nlm.nih.gov/pubmed/17186376)." _Biometals_ 20 (2007): 587-601.
 
-Wiehlmann, L., et al. "Population Structure of _Pseudomonas Aeruginosa_." _PNAS_ 104, no. 19 (2007): 8101-6. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876578/pdf/zpq8101.pdf))
+Wiehlmann, L., et al. "Population Structure of _Pseudomonas Aeruginosa_." _PNAS_ 104, no. 19 (2007): 8101-6. ([PDF - 1.5MB](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1876578/pdf/zpq8101.pdf))

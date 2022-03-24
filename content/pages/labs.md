@@ -117,7 +117,7 @@ CIP — calf intestinal alkaline phosphotase
 Datsenko 2000 PNAS red swap
 {{< tdclose >}}
 {{< tdopen >}}
-Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes in _Escherichia Coli_ K-12 Using PCR Products." _PNAS_ 97, no. 12 (2000): 6640-5. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18686/pdf/pq006640.pdf))
+Datsenko, K. A., and B. L. Wanner. "One-Step Inactivation of Chromosomal Genes in _Escherichia Coli_ K-12 Using PCR Products." _PNAS_ 97, no. 12 (2000): 6640-5. ([PDF](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC18686/pdf/pq006640.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +162,7 @@ Generating and screening for mutants in fur
 IQ SyBR green supermix
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4106212B.pdf))
+([PDF](http://www.bio-rad.com/webroot/web/pdf/lsr/literature/4106212B.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +171,7 @@ IQ SyBR green supermix
 Lysozyme
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/7/l7651dat.Par.0001.File.tmp/l7651dat.pdf))
+([PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/7/l7651dat.Par.0001.File.tmp/l7651dat.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -180,7 +180,7 @@ Lysozyme
 MegaX DH10B T1R electrocomp cells
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tools.invitrogen.com/content/sfs/manuals/megax_man.pdf))
+([PDF](http://tools.invitrogen.com/content/sfs/manuals/megax_man.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -216,7 +216,7 @@ NEB T4 DNA ligase
 PA14 Tn mutant library
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://ausubellab.mgh.harvard.edu/pa14/downloads/manual.pdf))
+([PDF](http://ausubellab.mgh.harvard.edu/pa14/downloads/manual.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -297,7 +297,7 @@ Restriction enzyme digests
 Ribonuclease A
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/5/r4642dat.Par.0001.File.tmp/r4642dat.pdf))
+([PDF](http://www.sigmaaldrich.com/etc/medialib/docs/Sigma/Datasheet/5/r4642dat.Par.0001.File.tmp/r4642dat.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -306,7 +306,7 @@ Ribonuclease A
 SAP — shrimp alkaline phosphotase
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://fermentas.com/templates/files/tiny_mce/coa_pdf/coa_ef0511.pdf))
+([PDF](http://fermentas.com/templates/files/tiny_mce/coa_pdf/coa_ef0511.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -333,7 +333,7 @@ T4 polynucleotide kinase
 Tips on how to troubleshoot your cloning
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.neb.com/tools-and-resources/troubleshooting-guides/troubleshooting-guide-for-cloning))
+([PDF](https://www.neb.com/tools-and-resources/troubleshooting-guides/troubleshooting-guide-for-cloning))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +342,7 @@ Tips on how to troubleshoot your cloning
 TOPO TA PCR cloning kit
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://tools.invitrogen.com/content/sfs/manuals/topota_man.pdf))
+([PDF](http://tools.invitrogen.com/content/sfs/manuals/topota_man.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -360,7 +360,7 @@ Transformation of DH5a-T1R chemically competent cells
 Epicentre failsafe PCR kit
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Epicentre biotechnologies failsafe PCR premix selection kit (PDF)](https://www.lucigen.com/FailSafe-and-trade-PCR-Systems/)
+[Epicentre biotechnologies failsafe PCR premix selection kit (PDF)](https://www.lucigen.com/FailSafe-and-trade-PCR-Systems/)
 {{< tdclose >}}
 
 {{< trclose >}}
