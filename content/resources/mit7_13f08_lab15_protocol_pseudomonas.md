@@ -4,6 +4,7 @@ description: Laboratory protocol for a student research project on examining the
   of Pseudomonas aeruginosa.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-13-experimental-microbial-genetics-fall-2008/bf315d452f422427d9235a961fd25602_MIT7_13f08_lab15_Protocol_Pseudomonas.pdf
 file_type: application/pdf
+parent_uid: 4e55194a-0c3b-2934-821a-1d3a37a1a3ae
 resourcetype: Document
 title: Pseudomonas Electroporations
 uid: bf315d45-2f42-2427-d923-5a961fd25602
